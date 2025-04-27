@@ -1,0 +1,97 @@
+[2025-04-27 11:37:52Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Root': '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO HostContext] Well known config file 'Credentials': '/home/ubuntu/wordpress-app/actions-runner/.credentials'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Root': '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO HostContext] Well known config file 'Runner': '/home/ubuntu/wordpress-app/actions-runner/.runner'
+[2025-04-27 11:37:52Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2025-04-27 11:37:52Z INFO Listener] RuntimeInformation: Ubuntu 22.04.5 LTS.
+[2025-04-27 11:37:52Z INFO Listener] Version: 2.323.0
+[2025-04-27 11:37:52Z INFO Listener] Commit: d8b82f44a9ec0258904d5869ae683c31d5aac299
+[2025-04-27 11:37:52Z INFO Listener] Culture: 
+[2025-04-27 11:37:52Z INFO Listener] UI Culture: 
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Root': '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO Listener] Validating directory permissions for: '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO CommandLineParser] Parse
+[2025-04-27 11:37:52Z INFO CommandLineParser] Parsing 5 args
+[2025-04-27 11:37:52Z INFO CommandLineParser] parsing argument
+[2025-04-27 11:37:52Z INFO CommandLineParser] HasArgs: False
+[2025-04-27 11:37:52Z INFO CommandLineParser] Adding Command: configure
+[2025-04-27 11:37:52Z INFO CommandLineParser] parsing argument
+[2025-04-27 11:37:52Z INFO CommandLineParser] HasArgs: True
+[2025-04-27 11:37:52Z INFO CommandLineParser] arg: url
+[2025-04-27 11:37:52Z INFO CommandLineParser] parsing argument
+[2025-04-27 11:37:52Z INFO CommandLineParser] HasArgs: True
+[2025-04-27 11:37:52Z INFO CommandLineParser] Adding option 'url': 'https://github.com/sankha-ghosh/wordpress-on-aws'
+[2025-04-27 11:37:52Z INFO CommandLineParser] parsing argument
+[2025-04-27 11:37:52Z INFO CommandLineParser] HasArgs: True
+[2025-04-27 11:37:52Z INFO CommandLineParser] arg: token
+[2025-04-27 11:37:52Z INFO CommandLineParser] parsing argument
+[2025-04-27 11:37:52Z INFO CommandLineParser] HasArgs: True
+[2025-04-27 11:37:52Z INFO CommandLineParser] Adding option 'token': '***'
+[2025-04-27 11:37:52Z INFO Listener] Arguments parsed
+[2025-04-27 11:37:52Z INFO Runner] ExecuteCommand
+[2025-04-27 11:37:52Z INFO ConfigurationStore] currentAssemblyLocation: /home/ubuntu/wordpress-app/actions-runner/bin/Runner.Listener.dll
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO ConfigurationStore] binPath: /home/ubuntu/wordpress-app/actions-runner/bin
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Root': '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO ConfigurationStore] RootFolder: /home/ubuntu/wordpress-app/actions-runner
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Root': '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO HostContext] Well known config file 'Runner': '/home/ubuntu/wordpress-app/actions-runner/.runner'
+[2025-04-27 11:37:52Z INFO ConfigurationStore] ConfigFilePath: /home/ubuntu/wordpress-app/actions-runner/.runner
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Root': '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO HostContext] Well known config file 'MigratedRunner': '/home/ubuntu/wordpress-app/actions-runner/.runner_migrated'
+[2025-04-27 11:37:52Z INFO ConfigurationStore] MigratedConfigFilePath: /home/ubuntu/wordpress-app/actions-runner/.runner_migrated
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Root': '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO HostContext] Well known config file 'Credentials': '/home/ubuntu/wordpress-app/actions-runner/.credentials'
+[2025-04-27 11:37:52Z INFO ConfigurationStore] CredFilePath: /home/ubuntu/wordpress-app/actions-runner/.credentials
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Root': '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/ubuntu/wordpress-app/actions-runner/.credentials_migrated'
+[2025-04-27 11:37:52Z INFO ConfigurationStore] MigratedCredFilePath: /home/ubuntu/wordpress-app/actions-runner/.credentials_migrated
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Bin': '/home/ubuntu/wordpress-app/actions-runner/bin'
+[2025-04-27 11:37:52Z INFO HostContext] Well known directory 'Root': '/home/ubuntu/wordpress-app/actions-runner'
+[2025-04-27 11:37:52Z INFO HostContext] Well known config file 'Service': '/home/ubuntu/wordpress-app/actions-runner/.service'
+[2025-04-27 11:37:52Z INFO ConfigurationStore] ServiceConfigFilePath: /home/ubuntu/wordpress-app/actions-runner/.service
+[2025-04-27 11:37:52Z INFO CommandSettings] Flag 'help': 'False'
+[2025-04-27 11:37:52Z INFO CommandSettings] Flag 'version': 'False'
+[2025-04-27 11:37:52Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-04-27 11:37:52Z INFO CommandSettings] Flag 'check': 'False'
+[2025-04-27 11:37:52Z INFO CommandSettings] Command 'configure': 'True'
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: 
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: |                                                                              |
+[2025-04-27 11:37:52Z INFO Terminal] WRITE: |                       
+[2025-04-27 11:37:52Z INFO Terminal] WRITE: Self-hosted runner registration
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE:                         |
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: |                                                                              |
+[2025-04-27 11:37:52Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2025-04-27 11:37:52Z INFO ConfigurationManager] ConfigureAsync
+[2025-04-27 11:37:52Z INFO CommandSettings] Flag 'generateServiceConfig': 'False'
+[2025-04-27 11:37:52Z INFO ConfigurationStore] IsConfigured()
+[2025-04-27 11:37:52Z INFO ConfigurationStore] IsConfigured: False
+[2025-04-27 11:37:52Z INFO ConfigurationManager] Is configured: False
+[2025-04-27 11:37:52Z INFO CommandSettings] Arg 'url': 'https://github.com/sankha-ghosh/wordpress-on-aws'
+[2025-04-27 11:37:52Z INFO CommandSettings] Remove url from Arg dictionary.
+[2025-04-27 11:37:52Z INFO CommandSettings] Arg 'token': '***'
+[2025-04-27 11:37:52Z INFO CommandSettings] Remove token from Arg dictionary.
+[2025-04-27 11:37:52Z ERR  Terminal] WRITE ERROR: Http response code: NotFound from 'POST https://api.github.com/actions/runner-registration' (Request Id: D700:2563:1A8A81F:3542604:680E1710)
+[2025-04-27 11:37:52Z ERR  Terminal] WRITE ERROR: {"message":"Not Found","documentation_url":"https://docs.github.com/rest","status":"404"}
+[2025-04-27 11:37:52Z ERR  Runner] System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.GetTenantCredential(String githubUrl, String githubToken, String runnerEvent)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2025-04-27 11:37:52Z ERR  Terminal] WRITE ERROR: Response status code does not indicate success: 404 (Not Found).
+[2025-04-27 11:37:52Z INFO Listener] Runner execution has finished with return code 1

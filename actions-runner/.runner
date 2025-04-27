@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 21,
+  "agentName": "ip-172-31-29-110",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus8.actions.githubusercontent.com/dNOz9UoVGmefcnD40AlNLoRYoqQZz9L1lzCBWhafkwrBd4DIKn/",
+  "gitHubUrl": "https://github.com/sankha-ghosh/wordpress-on-aws",
+  "workFolder": "_work"
+}
